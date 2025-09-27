@@ -29,7 +29,7 @@ You can also add and remove users easily.
    GROUP_ID=your_group_id
    IMPORT = 3.50
    CURRENCY = "$"
-   DAY = 1
+   DAY = your_payday
    ```
 
 4. **Create a `balances.json` file** (or use the provided one) with the initial balances, e.g.:
