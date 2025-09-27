@@ -1,4 +1,4 @@
-# Telegram Spotify Bot
+# Balance-TelegramBot
 
 A simple Telegram bot to manage and track group balances (e.g., for Spotify payments) using Python.
 This bot is designed for all the friends who end up paying subscriptions for others.
